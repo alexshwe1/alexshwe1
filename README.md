@@ -8,9 +8,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-I am a full stack software engineer in Chicago, IL.
-
-- 🔭 I’m working as a Software Engineer at Tech Mates Group. I help build and scale enterprise integrations for Shopify. I implemented CI/CD pipelines for development, staging, and production environments. I Built embedded apps interacting with Shopify's storefront and admin APIs. I also helped make the integration apps look pretty.
+I am a full stack software engineer in Chicago, IL currently working at Tech Mates Group. I help build and scale enterprise integrations for Shopify. I implemented CI/CD pipelines for development, staging, and production environments. I Built embedded apps interacting with Shopify's storefront and admin APIs. I also helped make the integration apps look pretty.
 
 ---
 
