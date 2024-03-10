@@ -27,6 +27,6 @@ I am a full stack software engineer in Chicago, IL currently working at Tech Mat
 ---
 
 ### 🔥 &nbsp; My Stats :
-![alexshwe1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexshwe1&theme=dark&hide_border=false)
+![alexshwe1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexshwe1&theme=tokyonight&hide_border=false)
 
-![alexshwe1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshwe1&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![alexshwe1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshwe1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
